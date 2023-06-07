@@ -60,6 +60,7 @@ These are direct download URL's
 ## Editors
 
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.3/npp.8.5.3.Installer.x64.exe)
+- [nano](https://www.nano-editor.org/dist/v2.5/NT/nano-2.5.3.zip)
 - [VSCode](https://code.visualstudio.com/Download) (! indirect)
 - [Visual Studio Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17)
 
